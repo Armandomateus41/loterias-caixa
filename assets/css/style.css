@@ -1,0 +1,23 @@
+.loteria-result {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.numero {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #007cba; /* Cor da bola */
+    color: white;
+    margin: 5px;
+}
+
+.loteria-premios h3 {
+    margin-top: 20px;
+}
